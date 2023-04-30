@@ -8,3 +8,5 @@ Please note that I've not tested this board, and some components are a bit expen
 I hope it will help some of you.
 
 L.A.
+
+![pcb](https://github.com/Agenax/NRF52840-devboard/blob/18d7d60a8fb6a20cddb2c53c8e5fb35d063d8656/devboard.jpg)
